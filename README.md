@@ -1,5 +1,4 @@
 # World-Happiness-Report-2015
-# World Happiness Analysis (2015)
 
 ## Overview
 An exploratory data analysis and machine learning project examining the factors associated with happiness across 158 countries in 2015.
